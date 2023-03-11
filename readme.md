@@ -1,5 +1,5 @@
 # C utils - vcs512
-Repo for saving C useful snnipets
+Repo for saving C useful snippets
 
 ## Building
 In: ./build:
